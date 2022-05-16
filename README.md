@@ -1,2 +1,2 @@
-# SDTM-DM
+# SDTM
 DM Project
